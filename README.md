@@ -1,16 +1,13 @@
 https://de.linkedin.com/in/dmitriyrozhkov
 
-## Engineering Manager (remote)
-* Pragmatic, goal oriented, demonstrated ability to meet and exceed all performance metrics.
-* Demonstrated experience successfully managing diverse individuals;
-* Strong focus on improving productivity of a team.
-* 14 years in the industry.
+## Sr. Engineering Leader (remote)
+With 6 years in management and 17 years in industry, I lead through people, coaching them to overcome obstacles, intervene when I must. I balance selectively shielding teams while providing them with the right amount of challenge. Unite people around a shared objective, identifying both collective and personal motivators to galvanize the team towards a common goal. Bring in demonstrated experience of a successful management of a cross-functional org. Remote-first management, foster culture of written communication and autonomous teams.
 
 ### Technical Skills
 JavaScript, Typescript, React.js, Node.js, Ruby, Ruby on Rails, Python, SQL, TDD, git, Linux, Docker, k8s, AWS
 
 ### Work Experience
-Twilio, remote  
+KORE Wireless (ex Twilio), remote  
 Engineering Manager, (2021 - present). 
 * Managing a cross-functional org: team of 5 backend engineers directly and an Engineering manager of a frontend team (4 engineers). 
 * Own public facing API, GUI Console and the back office Console for the IoT & Wireless Unit. 
